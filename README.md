@@ -1,1 +1,1 @@
-# slack-nofityer-ts
+# slack notifier on aws lambda
