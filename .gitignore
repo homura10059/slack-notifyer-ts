@@ -6,9 +6,6 @@ dist
 .venv
 __pycache__/
 
-# Editor
-.vscode
-
 # Litter
 *.log
 template.packaged.yaml
